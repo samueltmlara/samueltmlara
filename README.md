@@ -15,7 +15,7 @@ Com experiência em **DevOps, AWS e infraestrutura como código com Terraform**.
 
 ## 🛠️ Stack Tecnológica
 
-### ⚙️ Ferramentas e Frameworks  
+### ⚙️ Ferramentas & Frameworks  
 <p align="left">
   <span>&emsp;</span>
   <a href="https://github.com/syvixor/skills-icons">
